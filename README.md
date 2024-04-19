@@ -10,6 +10,7 @@
 <hr/>
 <h4>This is best offer now becuase price will change according to the progress of this project</h4>
 <hr/>
+<h2>Features</h2>
 <h4>Frontend</h4>
 <ul>
     <li>homepage</li>
