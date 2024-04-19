@@ -6,7 +6,7 @@
 <hr/>
 <p>Uploaded Videos = <code>4</code></p>
 <p>Total Videos = <code>~50</code></p>
-<p>Final Price = <code>~$150</code></p>
+<p>Final Price = <code>~$150</code>(After project all videos uploaded)</p>
 <hr/>
 <h4>This is best offer now becuase price will change according to the progress of this project</h4>
 <hr/>
