@@ -13,17 +13,17 @@
 <h2>Features</h2>
 <h4>&#10003; Frontend</h4>
 <ul>
-    <li>homepage</li>
-    <li>Room types page</li>
-    <li>Room booking form</li>
-    <li>Payment confirmation page</li>
-    <li>User signup page</li>
-    <li>User login/logout</li>
-    <li>user forget password</li>
-    <li>user dashboard</li>
-    <li>user booking history</li>
-    <li>user payment logs</li>
-    <li>user profile update</li>
+    <li>&#10003; homepage</li>
+    <li>&#10003; Room types page</li>
+    <li>&#10003; Room booking form</li>
+    <li>&#10003; Payment confirmation page</li>
+    <li>&#10003; User signup page</li>
+    <li>&#10003; User login/logout</li>
+    <li>&#10003; user forget password</li>
+    <li>&#10003; user dashboard</li>
+    <li>&#10003; user booking history</li>
+    <li>&#10003; user payment logs</li>
+    <li>&#10003; user profile update</li>
 </ul>
 <hr/>
 <h4>Backend/API</h4>
