@@ -11,7 +11,7 @@
 <h4>This is best offer now becuase price will change according to the progress of this project</h4>
 <hr/>
 <h2>Features</h2>
-<h4><style>span[class="checked"]{color: green;}</style> Frontend</h4>
+<h4>&#10003; Frontend</h4>
 <ul>
     <li>homepage</li>
     <li>Room types page</li>
@@ -28,15 +28,15 @@
 <hr/>
 <h4>Backend/API</h4>
 <ul>
-    <li><style>span[class="checked"]{color: green;}</style> create models/migrations</li>
-    <li><style>span[class="checked"]{color: green;}</style> admin setup for management</li>
-    <li><style>span[class="checked"]{color: green;}</style> user signup</li>
-    <li><style>span[class="checked"]{color: green;}</style> user token creation for login/logout</li>
-    <li><style>span[class="checked"]{color: green;}</style> forget password</li>
-    <li><style>span[class="checked"]{color: green;}</style> User login/logout</li>
-    <li><style>span[class="checked"]{color: green;}</style> user forget password</li>
-    <li><style>span[class="checked"]{color: green;}</style> booking according to specific room</li>
-    <li><style>span[class="checked"]{color: green;}</style> fetch booking history according to user</li>
+    <li>&#10003; create models/migrations</li>
+    <li>&#10003; admin setup for management</li>
+    <li>&#10003; user signup</li>
+    <li>&#10003; user token creation for login/logout</li>
+    <li>&#10003; forget password</li>
+    <li>&#10003; User login/logout</li>
+    <li>&#10003; user forget password</li>
+    <li>&#10003; booking according to specific room</li>
+    <li>&#10003; fetch booking history according to user</li>
     <li>generate invoice for bookings</li>
     <li>make payment for bookings with paypal</li>
     <li>make payment for bookings with razorpay</li>
