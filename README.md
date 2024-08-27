@@ -4,7 +4,7 @@
 -   Pay (Rs. 6600) via UPI <b>shobhathakur0859@okaxis</b> (India)
 -   Once payment successfull, please send your git username on my email codeartisanlab2607@gmail.com
 <hr/>
-<p>Uploaded Videos = <code>25</code></p>
+<p>Uploaded Videos = <code>227</code></p>
 <p>Total Videos = <code>~50</code></p>
 <p>Final Price = <code>~$150</code> (After project all videos uploaded)</p>
 <hr/>
@@ -37,7 +37,7 @@
     <li>&#10003; user forget password</li>
     <li>&#10003; booking according to specific room</li>
     <li>&#10003; fetch booking history according to user</li>
-    <li>generate invoice for bookings</li>
+    <li>&#10003; generate and show invoice detail for bookings</li>
     <li>make payment for bookings with paypal</li>
     <li>make payment for bookings with razorpay</li>
     <li>fetch payment logs according to user</li>
