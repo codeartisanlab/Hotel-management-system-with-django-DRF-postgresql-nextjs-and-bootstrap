@@ -46,13 +46,13 @@
     <li>&#10003; Fetch event type images when book event</li>
 </ul>
 <hr/>
-<h4>Admin Panel</h4>
+<h4>Django Admin Panel</h4>
 <ul>
-    <li>Admin Login/Logout</li>
-    <li>Admin dashboard</li>
-    <li>manage room types/rooms</li>
-    <li>manage bookings</li>
-    <li>manage customers</li>
-    <li>manage payments</li>
+    <li>&#10003; Admin Login/Logout</li>
+    <li>&#10003; Admin dashboard</li>
+    <li>&#10003; manage room types/rooms</li>
+    <li>&#10003; manage bookings</li>
+    <li>&#10003; manage customers</li>
+    <li>&#10003; manage payments</li>
     <li>manage notifications</li>
 </ul>
