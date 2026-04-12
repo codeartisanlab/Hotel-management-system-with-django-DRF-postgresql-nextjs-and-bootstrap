@@ -4,7 +4,7 @@
 -   Pay (Rs. 9900) via UPI <b>shobhathakur0859@okaxis</b> (India)
 -   Once payment successfull, please send your git username on my email codeartisanlab2607@gmail.com
 <hr/>
-<p>Uploaded Videos = <code>37</code></p>
+<p>Uploaded Videos = <code>38</code></p>
 <p>Total Videos = <code>~50</code></p>
 <p>Final Price = <code>~$150</code> (After project all videos uploaded)</p>
 <hr/>
@@ -22,6 +22,7 @@
     <li>&#10003; user forget password</li>
     <li>&#10003; user dashboard</li>
     <li>&#10003; user booking history</li>
+    <li>&#10003; user event booking history</li>
     <li>&#10003; user payment logs</li>
     <li>&#10003; user profile update</li>
 </ul>
@@ -38,12 +39,14 @@
     <li>&#10003; booking according to specific room</li>
     <li>&#10003; fetch booking history according to user</li>
     <li>&#10003; generate and show invoice detail for bookings</li>
+    <li>&#10003; Fetch event type images when book event</li>
     <li>&#10003; make payment for bookings with paypal</li>
+    <li>&#10003; make payment for event booking with paypal</li>
     <li>make payment for bookings with razorpay</li>
     <li>&#10003; fetch payment logs according to user</li>
     <li>&#10003; profile update</li>
     <li>&#10003; fetch data according to user dashboard</li>
-    <li>&#10003; Fetch event type images when book event</li>
+    
 </ul>
 <hr/>
 <h4>Django Admin Panel</h4>
@@ -54,5 +57,6 @@
     <li>&#10003; manage bookings</li>
     <li>&#10003; manage customers</li>
     <li>&#10003; manage payments</li>
+    <li>&#10003; manage invoices</li>
     <li>manage notifications</li>
 </ul>
