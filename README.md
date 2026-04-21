@@ -4,7 +4,7 @@
 -   Pay (Rs. 9900) via UPI <b>shobhathakur0859@okaxis</b> (India)
 -   Once payment successfull, please send your git username on my email codeartisanlab2607@gmail.com
 <hr/>
-<p>Uploaded Videos = <code>41</code></p>
+<p>Uploaded Videos = <code>42</code></p>
 <p>Total Videos = <code>~50</code></p>
 <p>Final Price = <code>~$170</code> (After project all videos uploaded)</p>
 <hr/>
@@ -27,6 +27,7 @@
     <li>&#10003; user profile update</li>
     <li>&#10003; fetch data according to user dashboard</li>
     <li>&#10003; Add & show rating review on dashboard booked event history</li>
+    <li>&#10003; Dynamic home page gallery section</li>
 </ul>
 <hr/>
 <h4>Backend/API</h4>
@@ -49,6 +50,7 @@
     <li>&#10003; profile update</li>
     <li>&#10003; fetch data according to user dashboard</li>
     <li>&#10003; Add & show rating review on dashboard booked event history</li>
+    <li>&#10003; Gallery images API</li>
     
 </ul>
 <hr/>
